@@ -1,4 +1,4 @@
-# Portfolio Projects 
+# Portfolio Projects  
 
 # [Portfolio Optimization](https://github.com/mablanch/Portfolio_Projects/blob/main/Portfolio_Optimization_MC.ipynb)
 - Modeled the Efficient Frontier with Monte Carlo Simulations in Python from historical data obtained from Yahoo finance’s API to determine the optimal asset weights needed to maximize the Sharpe Ratio for a portfolio comprised of Bitcoin, Ethereum and SPY.
